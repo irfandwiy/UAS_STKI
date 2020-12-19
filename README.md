@@ -9,9 +9,9 @@ program ini menggunakan Python Library **text-preprocessing**(Tokenizing, Filter
 
 ## Implementasi
 implementasi TF-IDF menggunakan python dan dataset
-* Source (https://github.com/gitarja/blog)
+* [Source](https://github.com/gitarja/blog) - implementasi TF-IDF
 
 Jika terjadi error pada proses stemming :
-* pip install sastrawi
-  atau
-* pip install pysastrawi
+pip install sastrawi
+atau
+pip install pysastrawi
